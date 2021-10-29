@@ -1,4 +1,4 @@
-SMARTCITY hackathon
+**SMARTCITY hackathon**
 
 Project title :women under threat and detection
 
