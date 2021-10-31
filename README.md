@@ -1,3 +1,7 @@
+![TEAM](https://user-images.githubusercontent.com/75214585/139579293-b79dcefc-7b5a-4cd1-a5ca-3dfe6fe36dcc.png)
+
+
+
 ****SMARTCITY hackathon****
 
 **Project title :** women under threat and detection
