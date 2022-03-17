@@ -8,7 +8,7 @@
 
 **team name:** highOnML
 
-**team members :** Madhan Kumar(team lead), Akhbar Sha, Megha R, V.Deepti
+**team members :** Madhan Kumar(team lead), Akhbar Sha, Megha R, V. Deepti
 
 **PROJECT DESCRIPTION**
 
